@@ -63,5 +63,6 @@ int main(){
         cout<<sum;
         cout<<"\n";
     }
+    system("pause");
 }
 
