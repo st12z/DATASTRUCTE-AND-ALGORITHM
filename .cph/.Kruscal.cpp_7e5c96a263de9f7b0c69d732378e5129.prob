@@ -1,0 +1,1 @@
+{"name":"Local: Kruscal","url":"c:\\Users\\T\\Desktop\\DSAPTIT\\Kruscal.cpp","tests":[{"id":1712645428296,"input":"2\n3 3\n1 2 5\n2 3 3\n1 3 1\n2 1\n1 2 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\T\\Desktop\\DSAPTIT\\Kruscal.cpp","group":"local","local":true}

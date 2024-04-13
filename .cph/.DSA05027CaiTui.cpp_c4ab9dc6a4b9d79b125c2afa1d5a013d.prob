@@ -1,0 +1,1 @@
+{"name":"Local: DSA05027CaiTui","url":"c:\\Users\\T\\Desktop\\DSAPTIT\\DSA05027CaiTui.cpp","tests":[{"id":1709191080450,"input":"1\n\n15 10\n\n5 2 1 3 5 2 5 8 9 6 3 1 4 7 8\n\n1 2 3 5 1 2 5 8 7 4 1 2 3 2 1","output":"15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\T\\Desktop\\DSAPTIT\\DSA05027CaiTui.cpp","group":"local","local":true}
